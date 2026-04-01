@@ -3,5 +3,5 @@
   "version_name": "1.1.0",
   "apk_url": "https://wayplay.top/wayplay.apk",
   "changelog": "- Teste do sistema de atualização\n- Verificando se o dialog aparece corretamente",
-  "force_update": false
+  "force_update": true
 }
