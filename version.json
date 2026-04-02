@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "5.0",
+  "version_code": 6,
+  "version_name": "6.0",
   "apk_url": "http://wayplay.top/updates/wayplay.apk",
   "changelog": "- Teste do sistema de atualização\n- Verificando se o dialog aparece corretamente",
   "force_update": true
