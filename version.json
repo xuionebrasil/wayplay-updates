@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
+  "version_code": 4,
+  "version_name": "1.4.0",
   "apk_url": "http://wayplay.top/updates/wayplay.apk",
-  "changelog": "- Teste do sistema de atualização\n- Verificando se o dialog aparece corretamente",
+  "changelog": "- Corrigido crash ao abrir tela inicial no celular\n- Adicionada busca em Canais, Filmes e Séries\n- Melhorado carregamento com 3 tentativas automáticas\n- Corrigido menu e botão voltar no celular\n- Adicionado botão Já paguei no popup de renovação",
   "force_update": true
 }
