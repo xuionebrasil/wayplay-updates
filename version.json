@@ -1,6 +1,6 @@
 {
-  "version_code": 6,
-  "version_name": "1.6.0",
+  "version_code": 5,
+  "version_name": "1.5.0",
   "apk_url": "http://wayplay.top/updates/wayplay.apk",
   "changelog": "- Corrigido crash ao abrir tela inicial no celular\n- Adicionada busca em Canais, Filmes e Séries\n- Melhorado carregamento com 3 tentativas automáticas\n- Corrigido menu e botão voltar no celular\n- Adicionado botão Já paguei no popup de renovação",
   "force_update": true
