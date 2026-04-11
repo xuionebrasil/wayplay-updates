@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "1.7.0",
+  "version_code": 8,
+  "version_name": "1.8.0",
   "apk_url": "http://wayplay.top/updates/wayplay.apk",
-  "changelog": "- Player separado para canais e conteudos\n- Controle remoto 100% funcional\n- Continue Assistindo com progresso salvo\n- Top 10 com destaque real\n- Interface mais limpa\n- Botoes padronizados e mais bonitos\n- Favoritos direto no player\n- Historico corrigido\n- Categoria de favoritos nos canais\n- Internet Ilimitada nas configuracoes",
+  "changelog": "Adicionado um painel para verificarmos os logs do aplicativo ao vivo",
   "force_update": true
 }
