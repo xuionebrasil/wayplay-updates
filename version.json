@@ -1,7 +1,7 @@
 {
-  "version_code": 12,
-  "version_name": "1.12.0",
+  "version_code": 13,
+  "version_name": "1.13.0",
   "apk_url": "http://wayplay.top/updates/wayplay.apk",
-  "changelog": "Correção do erro 404 ao gerar acesso da Internet Ilimitada",
+  "changelog": "Atualização da nova versão BETA",
   "force_update": true
 }
